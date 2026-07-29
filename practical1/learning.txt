@@ -1,0 +1,9 @@
+for practical 1.1:
+
+at first i faced difficulty in that shifting array ,but then concerning to my colleagues i cleared the doubt and then understood the logic of shifting.
+
+for 1.2:
+
+An error of print statement of duplication was faced 
+i.e. duplication statement was printed as many times as the same number was encountered.
+i resolved it using another third variable and adding one loop for the same variable
