@@ -1,0 +1,3 @@
+learned sorting techniques.
+i was already familiar with insertion and nerge sorting.
+had some difficulty using bubble sort but help of my colleagues i learnt that as well.
