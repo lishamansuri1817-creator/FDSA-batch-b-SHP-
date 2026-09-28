@@ -1,0 +1,2 @@
+implementing stack using array was completely easy but implementing it using linked list was new for me but i learned it and understood.
+in 6.3 conversion of infix to postfix was hard but with help of online platform and my friend i learned it.
